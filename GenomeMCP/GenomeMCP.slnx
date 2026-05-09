@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../GenomeMCP.Tests/GenomeMCP.Tests.csproj" />
+  <Project Path="GenomeMCP.csproj" />
+</Solution>
